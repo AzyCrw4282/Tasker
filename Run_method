@@ -1,0 +1,4 @@
+HTML and JS handles running code. Models defines db schema
+and views handles interaction with database. Views can return
+response via JSon request to confirm an ajax request.
+For login mechanism uses a login form to ease the html code needed, makes it easier.
